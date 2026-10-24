@@ -1,0 +1,12 @@
+{
+  "name": "genpark-multimodal-hsv-color-palette-extractor-skill",
+  "version": "1.0.0",
+  "description": "Multimodal design palette extractor analyzing RGB-to-HSV histograms and WCAG 2.1 contrast ratios",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["hsv-palette", "color-extraction", "wcag-contrast", "multimodal-design", "ui-color", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
